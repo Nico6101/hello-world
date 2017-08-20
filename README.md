@@ -1,2 +1,3 @@
 # hello-world
 first repository
+Hellio... I am Nico... And i want you all to know that i have STARTED....
